@@ -1,4 +1,4 @@
-# <p align="center">👋 Hello, I'm Ubaid</p>
+# <p align="center">👋 MD UBAIDULLAH</p>
 
 <p align="center">
   <strong>Full-Stack Developer | MERN Stack Specialist | Enterprise Security & CMS Solutions</strong>
