@@ -1,215 +1,45 @@
-# <p align="center">👋 MD UBAIDULLAH</p>
+# 👋 Md Ubaidulla — Founder & Lead Architect at [UbaidDev](https://ubaiddev.in/)
 
-<p align="center">
-  <strong>Full-Stack Developer | MERN Stack Specialist | Enterprise Security & CMS Solutions</strong>
-</p>
+🌐 **Official Website:** [https://ubaiddev.in/](https://ubaiddev.in/) | 🚀 **Start Your Project / Fixed-Price Quote:** [https://ubaiddev.in/get-quote](https://ubaiddev.in/get-quote) | 📧 **Email:** `contact@ubaiddev.in`
 
-<p align="center">
-  <a href="mailto:ubaiddevinfo@gmail.com">📧 ubaiddevinfo@gmail.com</a> · 
-  📍 Bangalore, Karnataka, India
-</p>
+At **[UbaidDev](https://ubaiddev.in/)**, we engineer production-grade, self-hosted business software, custom ERP & CRM platforms, autonomous AI agents, and high-conversion web & mobile applications with **100% source code ownership** and **$0 monthly per-seat licensing fees** for growing businesses across **India, USA, UK, Europe, UAE, Saudi Arabia, Canada, and Australia**.
 
 ---
 
-## 🚀 About Me
+## 🏗️ 1. Core Enterprise Software & Industry Solutions (`100% Source Code` • `$0 Per-Seat Monthly Fee`)
 
-I am a passionate **Full-Stack Developer** specializing in building **enterprise-grade web applications** using the MERN stack. My expertise lies in creating secure, scalable, and maintainable solutions that address real-world challenges for businesses in security, facility management, and enterprise operations.
-
-With a strong focus on **clean architecture**, **security best practices**, and **user-centered design**, I deliver production-ready applications that help organizations streamline operations, enhance visibility, and mitigate risks through reliable software solutions.
-
-### What Drives Me:
-- 🎯 Building **robust admin dashboards** and **custom CMS platforms**
-- 🔐 Implementing **security-first** development practices
-- 📊 Creating **real-time tracking systems** and **data visualization**
-- ⚡ Optimizing **performance** and **user experience**
-- 🤝 Helping businesses transform their operations through technology
-
-**Available for:** Freelance Projects · Custom Development · Technical Consulting
-
----
-
-## 💻 Technical Expertise
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### Core Competencies
-- **Full-Stack Architecture:** MERN Stack, RESTful APIs, MVC Pattern
-- **Database Management:** MongoDB, Mongoose ODM, Schema Design, Optimization
-- **Authentication & Security:** JWT, Bcrypt, Role-Based Access Control (RBAC)
-- **Real-Time Systems:** WebSockets, Live Tracking, Notifications
-- **UI/UX Implementation:** Responsive Design, Mobile-First Approach
-- **Performance Optimization:** Code Splitting, Lazy Loading, Caching Strategies
-- **SEO & Accessibility:** Semantic HTML, Meta Optimization, ARIA Standards
-- **Version Control:** Git, GitHub, Branching Strategies, Code Reviews
+| # | Solution / Service Pillar | Production Architecture & Key Capabilities | Live Documentation & Demo URL |
+| :- | :--- | :--- | :--- |
+| **1** | **Custom ERP + TallyPrime & GST Sync** | Bidirectional TallyPrime XML/TDL sync, NIC GST E-Invoicing, E-Way Bills, BOM/MRP manufacturing & Saudi ZATCA Phase-2 | **[Custom ERP Development with Tally & GST Integration](https://ubaiddev.in/solutions/erp)** |
+| **2** | **Multi-Warehouse Inventory & Retail POS** | Zone-Aisle-Rack-Bin location matrix, Zebra/Android PDA barcode scanning, FEFO expiry & offline-first thermal POS | **[Multi-Warehouse Barcode Inventory Software](https://ubaiddev.in/solutions/inventory)** • **[Retail WMS Architecture](https://ubaiddev.in/industries/retail)** |
+| **3** | **Hospital Management (HMS) & Smart-TV Queue** | Live waiting-room Smart-TV OPD token queue, 1-screen e-prescription, ABDM/NABH EMR, IPD bed billing & pathology LIMS | **[Hospital Management Software OPD Token Queue](https://ubaiddev.in/solutions/hospital-management)** • **[Healthcare IT Solutions](https://ubaiddev.in/industries/healthcare)** |
+| **4** | **0% Commission Hotel Booking Engine & PMS** | Direct room booking engine, Booking.com & Airbnb two-way channel sync, dynamic seasonal tariffs & split-folio GST night audit | **[0% Commission Hotel Direct Booking Engine & PMS](https://ubaiddev.in/solutions/hotel-management)** |
+| **5** | **Custom CRM Without Per-Seat Fees** | Unlimited sales users, native Meta WhatsApp Cloud API inbox, IndiaMART/Facebook lead webhooks & telecaller autodialer | **[Custom CRM Software Solutions](https://www.google.com/search?q=https://ubaiddev.in/crm-solutions)** • **[Business Operations Software](https://ubaiddev.in/services/business-software)** |
+| **6** | **Autonomous AI Agents, pgvector RAG & n8n** | Citation-locked PostgreSQL `pgvector` RAG, LangGraph multi-agent orchestration & self-hosted n8n Python microservices | **[AI Agent & LLM Integration Services](https://ubaiddev.in/ai-chatbot-development)** • **[Custom RAG Chatbot Development](https://www.google.com/search?q=https://ubaiddev.in/rag-chatbot-development)** • **[WhatsApp Business Automation](https://www.google.com/search?q=https://ubaiddev.in/whatsapp-business-automation)** |
+| **7** | **Zero-Fee E-Commerce, B2B Portals & Marketplaces** | Sub-second Next.js storefronts, tiered B2B wholesale dealer portals, D2C automation & multi-vendor split-payment marketplaces | **[Custom E-Commerce Development](https://www.google.com/search?q=https://ubaiddev.in/ecommerce-development)** • **[B2B Ecommerce Development](https://ubaiddev.in/b2b-ecommerce-development)** • **[B2B Wholesale Commerce Portal](https://www.google.com/search?q=https://ubaiddev.in/solutions/b2b-commerce-portal)** • **[D2C Commerce Operations](https://www.google.com/search?q=https://ubaiddev.in/solutions/d2c-commerce-operations)** • **[Headless Commerce Development](https://www.google.com/search?q=https://ubaiddev.in/headless-commerce-development)** • **[Multi-Vendor Marketplace Development](https://www.google.com/search?q=https://ubaiddev.in/marketplace-development)** |
+| **8** | **Full-Stack Web Apps, APIs & Cloud DevOps** | React 18, Next.js 15, Node.js, Python FastAPI, idempotent Stripe/Razorpay webhooks, PostgreSQL tuning & Docker VPS | **[Full-Stack Web Application Development](https://www.google.com/search?q=https://ubaiddev.in/full-stack-development)** • **[Custom Software Development](https://www.google.com/search?q=https://ubaiddev.in/services/custom-software)** • **[Custom API Development & Webhooks](https://ubaiddev.in/api-development)** • **[Database Operations](https://www.google.com/search?q=https://ubaiddev.in/database-ops)** • **[Managed VPS Hosting](https://www.google.com/search?q=https://ubaiddev.in/vps-hosting)** • **[UI/UX Product Design](https://www.google.com/search?q=https://ubaiddev.in/ui-ux-design)** |
+| **9** | **Cross-Platform Mobile Apps & Code Rescue** | Single-codebase iOS & Android apps, offline SQLite field-force apps & purchased source code / CodeCanyon customization | **[React Native Mobile App Development](https://ubaiddev.in/app-development)** • **[Flutter App Development Services](https://ubaiddev.in/flutter-app-development)** |
+| **10** | **$50 (₹3,999) 10-Page Business Website** | Up to 10 custom-coded responsive business pages delivered in 48 hours with 100% source code handover and $0 monthly fee | **[$50 10-Page Business Website Package (₹3,999)](https://ubaiddev.in/starter-website)** |
 
 ---
 
-## 🌟 Featured Project
+## 📊 2. 2026 Engineering Pricing Guides, TCO Benchmarks & Architecture Deep-Dives
 
-### 🔐 Security Agency Management System (CMS)
-
-> **Enterprise-grade security management platform built for modern security agencies and facility management companies.**
-
-[![Repository](https://img.shields.io/badge/Repository-security--agency--cms-blue?style=for-the-badge&logo=github)](https://github.com/ubaidgitdev-rgb/security-agency-cms)
-![Status](https://img.shields.io/badge/Status-Production--Ready-success?style=for-the-badge)
-![Available](https://img.shields.io/badge/Available-For_Sale-orange?style=for-the-badge)
-
-**Technology Stack:** React.js · Node.js · Express · MongoDB · JWT Authentication
-
-#### Key Features:
-- **📊 Admin Dashboard** - Comprehensive control panel with real-time analytics, KPI tracking, and role-based access management
-- **👥 Client Portal** - Intuitive interface for service management, reporting, and communication
-- **📍 Real-Time GPS Tracking** - Live location monitoring for security personnel and asset tracking
-- **📝 Content Management System** - SEO-optimized blog management with rich text editor and media handling
-- **📋 Request Management** - Automated workflow for client inquiries, task assignments, and status tracking
-- **🔔 Notification System** - Real-time alerts via email and in-app notifications
-- **📱 Responsive Design** - Mobile-first architecture ensuring seamless experience across all devices
-- **🔒 Enterprise Security** - JWT authentication, encrypted data transmission, and secure session management
-
-#### Business Impact:
-- Streamlines security operations and reduces manual workload by 60%
-- Provides real-time visibility into field operations
-- Enhances client communication and service delivery
-- Improves decision-making through data-driven insights
-
-**📦 Status:** Production-ready and available for licensing. Suitable for security agencies, facility management companies, and corporate security departments.
+- 💰 **[Software Customization Cost: 2026 Pricing & Scoping Guide](https://ubaiddev.in/blog/software-customization-cost)** — Real market benchmarks on the **[cost to customize purchased source code](https://ubaiddev.in/blog/software-customization-cost)** ($500–$5,000 fixed-milestone tiers) and CodeCanyon scripts vs. building from scratch.
+- 📈 **[Build vs. Buy Software in 2026: 3-Year TCO & ROI Calculator](https://ubaiddev.in/blog/build-vs-buy-software-cost-roi)** — Why growing SMBs are replacing per-seat SaaS subscriptions with 100% owned software assets.
+- 🏢 **[Small Business Website Packages: What to Compare Before You Buy](https://ubaiddev.in/blog/website-development-packages-small-business)** — Side-by-side comparison of starter, growth, and custom web packages.
+- 🤖 **[AI Workflow Automation in 2026: Combining n8n with Custom Python Microservices](https://ubaiddev.in/blog/ai-workflow-automation-n8n-custom-apis)** — Deterministic JSON schema extraction, PostgreSQL `pgvector` semantic search, and self-hosted Llama 3 / Mistral pipelines.
+- 🚢 **[Mastering Modern Web Deployment in 2026](https://www.google.com/search?q=https://ubaiddev.in/blog/mastering-modern-web-deployment-2026)** & **[Custom Software Development Guide 2026](https://www.google.com/search?q=https://ubaiddev.in/blog/custom-software-development)**
+- 📚 **Explore Category Hubs:** **[All Engineering Blog Insights](https://ubaiddev.in/blog)** • **[CRM \& ERP Articles](https://www.google.com/search?q=https://ubaiddev.in/blog/crm-erp)** • **[AI \& Automation Articles](https://www.google.com/search?q=https://ubaiddev.in/blog/ai-automation)** • **[Web Apps \& SaaS](https://www.google.com/search?q=https://ubaiddev.in/blog/web-apps-saas)** • **[E-Commerce \& CMS](https://www.google.com/search?q=https://ubaiddev.in/blog/ecommerce-cms)** • **[Mobile \& UI/UX](https://www.google.com/search?q=https://ubaiddev.in/blog/mobile-ui-ux)** • **[Cloud \& DevOps](https://www.google.com/search?q=https://ubaiddev.in/blog/cloud-devops)** • **[Industry Solutions](https://www.google.com/search?q=https://ubaiddev.in/blog/industry-solutions)**
 
 ---
 
-## 💼 Professional Services
+## 🚀 3. Live Enterprise Case Studies, Self-Hosted Products & Global Delivery
 
-I offer comprehensive full-stack development services tailored to enterprise needs:
-
-### 🎯 Custom Application Development
-- End-to-end MERN stack applications designed for your business workflow
-- Scalable architecture supporting growth from startup to enterprise
-- Clean, maintainable code with comprehensive documentation
-
-### 🛠️ CMS & Admin Dashboard Solutions
-- Custom content management systems with intuitive interfaces
-- Advanced admin panels with analytics and reporting
-- Role-based access control and user management
-
-### 🔄 Real-Time System Implementation
-- Live tracking systems (GPS, assets, personnel)
-- WebSocket-based real-time notifications and updates
-- Event-driven architectures for instant data synchronization
-
-### 🗄️ API & Database Architecture
-- RESTful API design and implementation
-- Database schema design and optimization
-- Performance tuning and query optimization
-
-### 🌐 Frontend Excellence
-- Modern, responsive UI/UX implementation
-- SEO optimization and accessibility compliance
-- Performance optimization for lightning-fast load times
-
-### 🤝 Consulting & Maintenance
-- Technical architecture consulting
-- Code reviews and best practices implementation
-- Ongoing maintenance and feature enhancements
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ubaidgitdev-rgb&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubaidgitdev-rgb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubaidgitdev-rgb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ubaidgitdev-rgb&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🎯 What Sets Me Apart
-
-✨ **Quality-Driven:** I write clean, maintainable code following industry best practices and SOLID principles
-
-🔒 **Security-Conscious:** Every application I build incorporates security from the ground up, not as an afterthought
-
-📈 **Performance-Focused:** I optimize for speed and efficiency, ensuring applications scale seamlessly
-
-🤝 **Client-Centric:** I prioritize clear communication and deliver solutions that genuinely solve business problems
-
-📚 **Continuous Learner:** I stay current with emerging technologies and modern development practices
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in discussing new projects, innovative ideas, or opportunities to make an impact through technology.
-
-### Contact Information:
-- **📧 Email:** [ubaiddevinfo@gmail.com](mailto:ubaiddevinfo@gmail.com)
-- **📍 Location:** Bangalore, Karnataka, India
-- **💼 Availability:** Open to freelance projects, consulting, and full-time opportunities
-
-### Response Time:
-I typically respond to inquiries within **24-48 hours**. For project discussions or demo requests for the Security Agency Management System, please feel free to reach out via email.
-
----
-
-## 🚀 Current Focus
-
-- 🔭 Building enterprise-grade security and facility management solutions
-- 💡 Exploring advanced real-time architectures and WebSocket implementations
-- 📚 Deepening expertise in system design and scalable architectures
-- 🌱 Contributing to open-source projects in the MERN ecosystem
-- 💼 Available for challenging projects that require robust, secure solutions
-
----
-
-## 💡 Collaboration Opportunities
-
-If you're looking for a reliable MERN stack developer to:
-- Build secure, scalable admin dashboards
-- Develop custom CMS platforms
-- Implement real-time tracking systems
-- Create enterprise web applications
-- Provide technical consulting on architecture decisions
-
-**I'm ready to help bring your vision to life.**
-
-📩 Drop me an email or open an issue on any of my repositories to start the conversation.
-
----
-
-<p align="center">
-  <strong>Building tomorrow's enterprise solutions with today's best technologies</strong>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ubaidgitdev-rgb&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
-<p align="center">
-  Made with 💻 and ☕ in Bangalore
-</p>
+- 🛡️ **[ProtectWell™ — Enterprise Facilities & Security Operations CMS](https://ubaiddev.in/recent-developed/protectwell-enterprise-cms)** & **[Product Page](https://www.google.com/search?q=https://ubaiddev.in/products/protectwell-enterprise-cms)**
+- 🏥 **[HealthyGeo™ — Clinical CMS & Telehealth EHR Suite](https://ubaiddev.in/recent-developed/healthygeo-clinical-cms)**
+- ⚡ **[Zenith — AI \& Revenue Operations Automation Workspace](https://www.google.com/search?q=https://ubaiddev.in/recent-developed/zenith-revenue-automation)**
+- 🧰 **[All Recent Developed Case Studies](https://www.google.com/search?q=https://ubaiddev.in/recent-developed)** • **[Self-Hosted Software Products](https://www.google.com/search?q=https://ubaiddev.in/products)** • **[HTML \& React Templates](https://www.google.com/search?q=https://ubaiddev.in/html-templates)** • **[Traffic \& Project Planner Tool](https://www.google.com/search?q=https://ubaiddev.in/tools/traffic-planner)** • **[Project Cost Estimator](https://www.google.com/search?q=https://ubaiddev.in/estimate)**
+- 🌍 **[All Software Development Services](https://ubaiddev.in/services)** • **[Complete Service Directory](https://ubaiddev.in/services/all)** • **[Industries We Serve](https://www.google.com/search?q=https://ubaiddev.in/industries)** • **[Staff \& Attendance Management](https://www.google.com/search?q=https://ubaiddev.in/staff-management)**
+- 🤝 **[International Software Engineering (4–6 Hr US/UK/EU/GCC Overlap)](https://ubaiddev.in/international-software-development)** • **[White-Label Agency Partner Program](https://ubaiddev.in/partners/agency)**
+- 📖 **[How We Work (6-Stage Milestone Process)](https://ubaiddev.in/how-it-works)** • **[About UbaidDev](https://www.google.com/search?q=https://ubaiddev.in/about)** • **[Client Help Center & Order Guide](https://ubaiddev.in/help)** • **[FAQs](https://www.google.com/search?q=https://ubaiddev.in/faq)** • **[Contact Us](https://ubaiddev.in/contact)**
